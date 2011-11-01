@@ -12,7 +12,7 @@
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "mongodb"],
   "dependencies": {
-    "mongodb": "0.9.x"
+    "mongodb": "==0.9.6-19"
   },
   "devDependencies": {
     "winston": "0.4.x",
